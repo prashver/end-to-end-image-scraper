@@ -48,7 +48,7 @@ def fetch_and_save_images(query, num_images_to_fetch, save_dir):
             break  # Break out of the loop if the desired count is reached
 
         # Constructing the Google Images search URL with the start index
-        search_url = f"https://www.google.com/search?q={query}&tbm=isch&start={start_index}"
+        search_url = f"https://www.google.com/search?q={query}&tbm=isch&start={start_index}&tbs=iszw:1920,iszh:1080,islt:20mp"
 
         response = requests.get(search_url)
         soup = BeautifulSoup(response.content, "html.parser")
