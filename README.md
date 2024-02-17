@@ -30,5 +30,4 @@ Customization: Users can modify the search parameters and adjust the code to sui
 
 [Live Demo](https://prashver-image-scraper.streamlit.app/)
 
-![site_deployment](https://github.com/prashver/end-to-end-image-scraper/assets/84378440/bfc14bf1-58d3-42c4-aff7-42974100781c)
-
+![site_deployment](https://github.com/prashver/end-to-end-image-scraper/assets/84378440/54b7f209-935a-4f9b-8ed8-0d2da2d6a2f6)
