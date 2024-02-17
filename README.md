@@ -28,7 +28,7 @@ Image Quality: While the application attempts to fetch high-quality images, the 
 
 Customization: Users can modify the search parameters and adjust the code to suit their specific needs, such as filtering images by size or other criteria.
 
-[Live Demo](https://prashver-image-scrapper.streamlit.app/)
+[Live Demo](https://prashver-image-scraper.streamlit.app/)
 
 ![site_deployment](https://github.com/prashver/end-to-end-image-scraper/assets/84378440/bfc14bf1-58d3-42c4-aff7-42974100781c)
 
