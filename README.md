@@ -1,4 +1,4 @@
-# End-to-End Image Scrapper App
+# End-to-End Image Scraper App
 
 ### ImageHarvest Pro
 ImageHarvest Pro is a Streamlit web application for effortless image scraping from Google Images. With this tool, users can specify a search query and the application will download and save the images locally in a zip file.
