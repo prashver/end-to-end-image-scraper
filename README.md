@@ -12,7 +12,7 @@ To run the application locally, follow these steps:
 2. Install the required dependencies : 
 ```pip install -r requirements.txt```
 
-4. Open and app.py file : 
+3. Open and run app.py file : 
 ```streamlit run app.py```
 
 
